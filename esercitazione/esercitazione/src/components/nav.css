@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  flex-direction: row;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  align-content:space-around; 
+}
+li{
+    align-items: space-around;
+    align-content: space-around;
+    align-self: space-around    ;
+}
+a {
+  display: flex;
+  flex-direction: row;
+}
